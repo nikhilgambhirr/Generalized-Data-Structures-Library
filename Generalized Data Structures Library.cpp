@@ -2291,7 +2291,7 @@ int BST<T>:: CountParentNodes(BSTnode<T>* first)
 
 ///////////////////////////////////////////////////////////////////////
 //
-//  Class :         Sorting (595.cpp) -> generic
+//  Class :         Sorting  -> generic
 //  Description :   Generic implementation of sorting algorithms
 //  Author :        Nikhil Kailas Gambhir
 //
@@ -2601,11 +2601,7 @@ class ArraySearchX
         }
 
 
-///////////////////////////////////////////////////////////////////////
-// Assignment no 34,35,36 functions -> C++ -> Generic
-// Write all functions logic in all types of Linked List
-///////////////////////////////////////////////////////////////////////
-    
+
 int main()
 {
     int choice = 0;
@@ -3045,4 +3041,5 @@ int main()
         }
     }
 }
+
 
